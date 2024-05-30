@@ -1,0 +1,3 @@
+﻿  DSACode.cpp
+C:\Users\ALIENWARE\Desktop\DSA PROJECT\DSA\DSACode.cpp(431,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DSA.vcxproj -> C:\Users\ALIENWARE\Desktop\DSA PROJECT\x64\Debug\DSA.exe
